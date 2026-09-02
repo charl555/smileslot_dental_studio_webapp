@@ -9,6 +9,7 @@
         "skipLibCheck": true,
         "forceConsistentCasingInFileNames": true,
         "lib": ["DOM", "DOM.Iterable", "ESNext"],
+        "types": ["vite/client"],
         "allowJs": false,
         "resolveJsonModule": true,
         "isolatedModules": true,
